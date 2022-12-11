@@ -1,0 +1,14 @@
+* {
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+  margin:1%;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+}
+
+.buttn {
+  border: 1px solid antiquewhite;
+  padding: 2px;
+}
